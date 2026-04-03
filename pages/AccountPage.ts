@@ -1,5 +1,5 @@
 import { Page, expect } from "@playwright/test";
-import userdata from "../data/userData.json";
+import userdata from "../data/userData.json" assert { type: "json" };
 export class AccountPage{
     constructor(
         private page: Page

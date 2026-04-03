@@ -1,6 +1,6 @@
 import {test} from "@playwright/test";
 import { POmanager } from "../pages/POmanager";
-import userdata from "../data/userData.json";
+import userdata from "../data/userData.json" assert { type: "json" };
 
 test("E2E test with POM and Json Data", async({page})=>{
     const pom = new POmanager(page);
