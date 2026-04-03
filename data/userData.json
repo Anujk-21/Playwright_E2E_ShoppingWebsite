@@ -1,0 +1,17 @@
+{
+    "name":"Anuj Karoddeo",
+    "email":"anuj1211@gmail.com",
+    "password":"Anuj1234@",
+    "dob":{
+        "day":"21",
+        "month":"1",
+        "year":"2002"
+    },
+    "firstname":"Anuj",
+    "lastname":"Karoddeo",
+    "address":"15 Ujwal Nagar",
+    "state":"Maharashtra",
+    "city":"Yavatmal",
+    "zipcode":"445001",
+    "mobile":"7841041210"
+}
