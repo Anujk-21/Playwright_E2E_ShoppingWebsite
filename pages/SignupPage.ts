@@ -1,5 +1,4 @@
 import { Page } from "@playwright/test";
-import data from '../data/userData.json' assert { type: "json" };
 
 export class SignupPage{
     constructor(
