@@ -192,15 +192,4 @@ Create a workflow file at .github/workflows/playwright.yml to run tests on push 
 Feel free to open issues or pull requests to improve tests, add missing flows, or enhance CI.
 
 ---
-
-## License
-If you want to add a license, include a LICENSE file at the repository root. This README does not add a license by itself.
-
----
-
-If you want, I can:
-- Adjust the README to match the exact test folder names and scripts present in your repo.
-- Add a GitHub Actions workflow file to run the tests on push/PRs.
-- Create example test or page object files.
-
-Tell me which of the above you'd like me to do next and I will add them to the repository.
+Anujk-21
